@@ -64,7 +64,7 @@ function App(props) {
             align="center"
             className={classes.title}
           >
-            Oktank EKS Demo App 입니다.
+            Oktank EKS Demo App -Hybrid입니다.
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
