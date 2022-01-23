@@ -60,11 +60,11 @@ function App(props) {
             <CloudIcon />
           </IconButton>
           <Typography
-            variant="h6"
+            variant="h9"
             align="center"
             className={classes.title}
           >
-            EKS DEMO Blog--OktankABP--ecrtest!!!!!!
+            Oktank EKS Demo App 입니다.
           </Typography>
           {new Date().toLocaleTimeString()}
         </Toolbar>
